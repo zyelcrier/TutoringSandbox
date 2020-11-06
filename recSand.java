@@ -1,5 +1,6 @@
 public class recSand{
     public static void main(String[] args) {
+        recFact(6);
         System.out.println("Rec Fact: " + recFact(6));
     }//main
     public static int recFact(int n){
